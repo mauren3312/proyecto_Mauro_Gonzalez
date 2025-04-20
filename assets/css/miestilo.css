@@ -1,0 +1,25 @@
+* .logo {
+    width: 100px;
+}
+
+.carrito {
+    width: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#mainNavbar {
+    position: fixed;
+    top: -70px;
+    width: 100%;
+    z-index: 1000;
+    transition: top 0.3s ease;
+}
+  
