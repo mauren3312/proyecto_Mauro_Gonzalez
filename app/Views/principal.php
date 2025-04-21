@@ -7,6 +7,7 @@
     <title>G&G Optica</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/miestilo.css">
+    
     <style>
         label {
             color: white;
@@ -24,6 +25,10 @@
             margin: 50px;
         }
 
+        .mt-carousel{
+            margin-top: 80px;
+        }
+
         .card-icon {
             width: 80px;
             height: 80px;
@@ -39,20 +44,27 @@
             opacity: 0.8;
             text-decoration: line-through;
         }
+
+        input[type="search"] {
+            background-image: url('assets/img/svg/icon_search.svg');
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: 30px 30px; /* Ajusta el tamaño del ícono */
+            padding-left: 40px; /* Da espacio para el ícono */
+        }
+
     </style>
 </head>
 
-<body> <!--Insertar un estilo interno para un párrafo existente.-->
+<body class="bg-dark"> <!--Insertar un estilo interno para un párrafo existente.-->
 
     <header>
         <!--Llamamos a nuestro navbar que lo tenemos en un archivo separado -->
         <?php include 'navbar.php'; ?>
 
     </header>
-
-
     <!-- Carrousel-->
-    <section class="container-fluid mt-3 col-12">
+    <section class="container-fluid mt-carousel col-12">
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
 
             <div class="carousel-inner">
@@ -99,19 +111,19 @@
     </section>
 
     <!-- PRODUCTOS DESTACADOS -->
-    <section class="bg-dark py-5 px-5">
+    <section class="bg-dark my-3 py-5 px-5">
         <br>
         <div class="container">
             <h1>Productos Destacados</h1>
         </div>
         <br>
 
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4 justify-content-center">
+        <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-4 justify-content-center">
             <div class="col">
                 <div class="card h-100">
                     <img src="assets/img/anteojo1.webp" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Anteojo 360 Marty Negro</h5>
+                        <h5 class="card-title text-truncate">Anteojo 360 Marty Negro</h5>
                         <div>
                             <span class="precio-viejo">$87.800,00</span>
                             <span class="card-text">$72.625,00</span>
@@ -123,7 +135,7 @@
                 <div class="card h-100">
                     <img src="assets/img/anteojo2.webp" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Anteojo Vulk Rolling Stone BURDEN C3 Polarizado</h5>
+                        <h5 class="card-title text-truncate">Anteojo Vulk Rolling Stone BURDEN C3 Polarizado</h5>
                         <div>
                             <span class="precio-viejo">$138.000,00</span>
                             <span class="card-text">$128.200,00</span>
@@ -135,7 +147,7 @@
                 <div class="card h-100">
                     <img src="assets/img/anteojo3.webp" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Anteojo Vulk Rolling Stone I SEE C7 Ed. Limitada</h5>
+                        <h5 class="card-title text-truncate">Anteojo Vulk Rolling Stone I SEE C7 Ed. Limitada</h5>
                         <p class="card-text">$190.750,00</p>
                     </div>
                 </div>
@@ -144,7 +156,7 @@
                 <div class="card h-100">
                     <img src="assets/img/anteojo4.webp" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Anteojo Dacil Berlin Small Negro</h5>
+                        <h5 class="card-title text-truncate">Anteojo Dacil Berlin Small Negro</h5>
                         <div>
                             <span class="precio-viejo">$50.000,00</span>
                             <span class="card-text">$42.750,00</span>
@@ -156,7 +168,7 @@
                 <div class="card h-100">
                     <img src="assets/img/anteojo5.webp" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Anteojo Dacil Paris Celeste</h5>
+                        <h5 class="card-title text-truncate">Anteojo Dacil Paris Celeste</h5>
                         <div>
                             <span class="precio-viejo">$87.800,00</span>
                             <span class="card-text">$72.625,00</span>
@@ -179,7 +191,7 @@
         </div>
         <br>
 
-        <div class="row row-cols-2 row-cols-md-3 g-4 justify-content-center mx-4">
+        <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center mx-4">
             <div class="col">
                 <div class="card">
                     <img src="assets/img/tarjetaicon.png" class="card-img-top card-icon" alt="...">
