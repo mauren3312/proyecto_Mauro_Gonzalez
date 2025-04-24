@@ -1,29 +1,45 @@
-<section class="bg-light py-5 my-5 text-center font-monospace">
-    <p>
-        📝 Términos y Condiciones de Uso
-        Última actualización: [23 de abril de 2025]
+<section class="bg-light py-5 my-5 font-monospace text-justify">
+    <div class="container">
+        <h2 class="text-center mb-4">📝 Términos y Condiciones de Uso</h2>
+        <p class="text-center text-muted">Última actualización: 23 de abril de 2025</p>
 
-        Bienvenido/a a nuestro sitio web. Al acceder y utilizar este sitio, aceptás cumplir con los siguientes Términos y Condiciones. Si no estás de acuerdo con alguno de estos términos, te recomendamos no utilizar nuestro sitio.
+        <p>
+            Bienvenido/a a nuestro sitio web. Al acceder y utilizar este sitio, aceptás cumplir con los siguientes Términos y Condiciones. Si no estás de acuerdo con alguno de estos términos, te recomendamos no utilizar nuestro sitio.
+        </p>
 
-        1. Uso del sitio web
-        El contenido de este sitio es solo para tu uso personal y no comercial. Está prohibido copiar, distribuir, modificar o utilizar el contenido sin autorización previa por escrito.
+        <h5 class="mt-4">1. Uso del sitio web</h5>
+        <p>
+            El contenido de este sitio es solo para tu uso personal y no comercial. Está prohibido copiar, distribuir, modificar o utilizar el contenido sin autorización previa por escrito.
+        </p>
 
-        2. Propiedad intelectual
-        Todos los textos, imágenes, logotipos, diseños, y demás contenidos son propiedad de [Nombre de tu empresa o página] o se usan con los permisos correspondientes. Queda prohibida su reproducción total o parcial sin autorización.
+        <h5 class="mt-4">2. Propiedad intelectual</h5>
+        <p>
+            Todos los textos, imágenes, logotipos, diseños y demás contenidos son propiedad de <strong>[Nombre de tu empresa o página]</strong> o se usan con los permisos correspondientes. Queda prohibida su reproducción total o parcial sin autorización.
+        </p>
 
-        3. Enlaces a terceros
-        Este sitio puede contener enlaces a otros sitios web. No somos responsables del contenido, políticas o prácticas de terceros. Te recomendamos revisar sus propios términos antes de interactuar con ellos.
+        <h5 class="mt-4">3. Enlaces a terceros</h5>
+        <p>
+            Este sitio puede contener enlaces a otros sitios web. No somos responsables del contenido, políticas o prácticas de terceros. Te recomendamos revisar sus propios términos antes de interactuar con ellos.
+        </p>
 
-        4. Privacidad
-        Cuidamos tus datos. Cualquier información personal que nos brindes será tratada conforme a nuestra [Política de Privacidad]. No compartimos tus datos con terceros sin tu consentimiento.
+        <h5 class="mt-4">4. Privacidad</h5>
+        <p>
+            Cuidamos tus datos. Cualquier información personal que nos brindes será tratada conforme a nuestra <a href="#" class="text-decoration-underline">Política de Privacidad</a>. No compartimos tus datos con terceros sin tu consentimiento.
+        </p>
 
-        5. Limitación de responsabilidad
-        No nos responsabilizamos por daños o pérdidas que puedan surgir del uso del sitio o de la imposibilidad de acceder al mismo, incluyendo errores o interrupciones del servicio.
+        <h5 class="mt-4">5. Limitación de responsabilidad</h5>
+        <p>
+            No nos responsabilizamos por daños o pérdidas que puedan surgir del uso del sitio o de la imposibilidad de acceder al mismo, incluyendo errores o interrupciones del servicio.
+        </p>
 
-        6. Modificaciones
-        Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquier momento. Los cambios entrarán en vigencia inmediatamente luego de su publicación.
+        <h5 class="mt-4">6. Modificaciones</h5>
+        <p>
+            Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquier momento. Los cambios entrarán en vigencia inmediatamente luego de su publicación.
+        </p>
 
-        7. Contacto
-        Si tenés alguna duda sobre estos términos, podés escribirnos a: [tuemail@ejemplo.com]
-    </p>
+        <h5 class="mt-4">7. Contacto</h5>
+        <p>
+            Si tenés alguna duda sobre estos términos, podés escribirnos a: <a href="mailto:Claralunagomez968@gmail.com">Claralunagomez968@gmail.com</a>
+        </p>
+    </div>
 </section>
