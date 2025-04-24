@@ -14,7 +14,7 @@
 
         <h5 class="mt-4">2. Propiedad intelectual</h5>
         <p>
-            Todos los textos, imágenes, logotipos, diseños y demás contenidos son propiedad de <strong>[Nombre de tu empresa o página]</strong> o se usan con los permisos correspondientes. Queda prohibida su reproducción total o parcial sin autorización.
+            Todos los textos, imágenes, logotipos, diseños y demás contenidos son propiedad de <strong>G&G Optica</strong> o se usan con los permisos correspondientes. Queda prohibida su reproducción total o parcial sin autorización.
         </p>
 
         <h5 class="mt-4">3. Enlaces a terceros</h5>
