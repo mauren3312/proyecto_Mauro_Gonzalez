@@ -1,25 +1,41 @@
-* .logo {
-    width: 100px;
+*
+.margen-bottom7 {
+    margin-bottom: 50px;
 }
 
-.carrito {
-    width: 50px;
+.margen-top7 {
+    margin-top: 50px;
 }
 
-body {
-    background-color: black;
+.margen7 {
+    margin: 50px;
 }
 
-h1 {
-    color: white;
-    text-align: center;
+.mt-carousel{
+    margin-top: 80px;
 }
 
-#mainNavbar {
-    position: fixed;
-    top: -70px;
-    width: 100%;
-    z-index: 1000;
-    transition: top 0.3s ease;
+.card-icon {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin: 1rem auto 0;
+    /* centrado arriba con un pequeño margen */
+    display: block;
+}
+
+.precio-viejo {
+    color: #555;
+    font-size: 12px;
+    opacity: 0.8;
+    text-decoration: line-through;
+}
+
+input[type="search"] {
+    background-image: url('assets/img/svg/icon_search.svg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 30px 30px; /* Ajusta el tamaño del ícono */
+    padding-left: 40px; /* Da espacio para el ícono */
 }
   
