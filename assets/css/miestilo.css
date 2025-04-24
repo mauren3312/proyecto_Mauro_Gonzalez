@@ -39,3 +39,4 @@ input[type="search"] {
     padding-left: 40px; /* Da espacio para el ícono */
 }
   
+.boton-flota{position: fixed; right: 6px; top: 90%; z-index: 50; color: black;} /*z-index determina qué elementos se muestran por encima de otros*/
