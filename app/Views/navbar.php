@@ -1,7 +1,8 @@
-<nav class="navbar fixed-top py-3 navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+<nav class="navbar fixed-top py-3 navbar-expand-lg bg-dark" data-bs-theme="dark">
     <div class="container-fluid d-flex align-items-center">
 
-        <a class="navbar-brand" href="<?= base_url() ?>"><img src="assets/img/svg/icon_eyeglasses.svg" width="38" height="38"> G&G Óptica</a>
+        <a class="navbar-brand" href="<?= base_url() ?>"><img src="assets/img/svg/icon_eyeglasses.svg"
+         width="38" height="38"> G&G Óptica</a>
 
 
         <!-- Botón hamburguesa SOLO visible en pantallas chicas -->

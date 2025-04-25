@@ -7,7 +7,7 @@
 
         <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center mx-4">
             <div class="col">
-                <div class="card">
+                <div class="card border-black">
                     <img src="assets/img/tarjetaicon.png" class="card-img-top card-icon" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Formas de pago</h5>
@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="col">
-                <div class="card">
+                <div class="card border-black">
                     <img src="assets/img/camionicon.png" class="card-img-top card-icon" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Tipo de entregas</h5>

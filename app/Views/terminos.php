@@ -1,6 +1,6 @@
 <section class="bg-light py-5 my-5 font-monospace text-justify">
     <div class="container">
-        <h2 class="text-center mb-4">📝 Términos y Condiciones de Uso</h2>
+        <h2 class="text-center mb-4"> Términos y Condiciones de Uso</h2>
         <p class="text-center text-muted">Última actualización: 23 de abril de 2025</p>
 
         <p>
@@ -24,7 +24,7 @@
 
         <h5 class="mt-4">4. Privacidad</h5>
         <p>
-            Cuidamos tus datos. Cualquier información personal que nos brindes será tratada conforme a nuestra <a href="#" class="text-decoration-underline">Política de Privacidad</a>. No compartimos tus datos con terceros sin tu consentimiento.
+            Cuidamos tus datos. Cualquier información personal que nos brindes será tratada conforme a nuestra Política de Privacidad. No compartimos tus datos con terceros sin tu consentimiento.
         </p>
 
         <h5 class="mt-4">5. Limitación de responsabilidad</h5>

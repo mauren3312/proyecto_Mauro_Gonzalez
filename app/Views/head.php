@@ -7,7 +7,6 @@
     <title>G&G Optica</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/miestilo.css">
-    
 </head>
 
 <body class="bg-light">
