@@ -49,7 +49,7 @@
     <!-- PRODUCTOS DESTACADOS -->
     <section class="bg-light my-3 py-5 px-5">
         <br>
-        <div class="container">
+        <div class="container text-center">
             <h1>Productos Destacados</h1>
         </div>
         <br>

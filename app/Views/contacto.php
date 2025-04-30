@@ -1,6 +1,6 @@
 <section class="bg-light text-dark py-5">
     <br>
-    <div class="text-center mb-5 mt-5 mx-5">
+    <div class="text-center m-5">
         <h1>Contactanos</h1>
         <h3>Mandanos un mensaje y te respondemos al correo lo antes posible</h3>
     </div>
