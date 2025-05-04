@@ -16,16 +16,29 @@
                     <br>
                     <div class="mb-3">
                         <label for="mensaje" class="form-label">Mensaje</label>
-                        <textarea 
-                            class="form-control border-black" 
-                            id="mensaje" 
-                            name="mensaje" 
-                            rows="5" 
-                            required
-                        ></textarea>
+                        <textarea
+                            class="form-control border-black"
+                            id="mensaje"
+                            name="mensaje"
+                            rows="5"
+                            required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Enviar</button>
                 </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="toast-container position-fixed toast-top-custom start-50 translate-middle-x">
+        <div id="liveToast" class="toast align-items-center text-white bg-success border-1" 
+                    role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="toast-header">
+                <span class="me-2">✅</span>
+                <strong class="me-auto">Mensaje enviado!</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+            <div class="toast-body">
+                Se ha mandado correctamente.
             </div>
         </div>
     </div>
