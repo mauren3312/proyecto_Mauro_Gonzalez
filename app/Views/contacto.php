@@ -7,7 +7,7 @@
     <br>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-6 col-lg-4">
+            <div class="col-8 col-md-6 col-lg-4">
                 <form>
                     <div class="mb-3">
                         <label for="email" class="form-label">Correo Electrónico</label>
@@ -16,12 +16,8 @@
                     <br>
                     <div class="mb-3">
                         <label for="mensaje" class="form-label">Mensaje</label>
-                        <textarea
-                            class="form-control border-black"
-                            id="mensaje"
-                            name="mensaje"
-                            rows="5"
-                            required></textarea>
+                        <textarea class="form-control border-black" id="mensaje"
+                            name="mensaje" rows="5" required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Enviar</button>
                 </form>
