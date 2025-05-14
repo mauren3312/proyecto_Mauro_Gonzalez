@@ -43,7 +43,7 @@ input[type="search"] {
 }
 
 .toast-top-custom {
-    top: 90px;
+    top: 15%;
     z-index: 1055;
 }
   
